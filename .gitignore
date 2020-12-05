@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# Secrets
+.env
+
+# Bot data (generated at runtime)
+data/*.json
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+
+.claude/
+CLAUDE.md
