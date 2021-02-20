@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/axara.png" alt="Axara logo" width="128">
+</p>
+
 # Axara
 
 A multipurpose Discord bot for the GITAM community server, written in Python with [discord.py](https://github.com/Rapptz/discord.py).
